@@ -1,2 +1,2 @@
 # My-Portfolio
-My Personal Portfolio as Front End Developer
+My Personal Portfolio Website using HTML CSS and JavaScript
